@@ -7,3 +7,6 @@ and open tomcat server
 n login it 
 to get the access 
 then now open jenkins and give the scm-git (url)
+At build stage
+ewbc:mvn package
+by here packages are created 
